@@ -1,0 +1,41 @@
+body {
+    
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+main {
+    padding: 25px;
+    background-color:#cbefff;
+    width: 30%;
+    border-radius: 7px;
+}
+
+input {
+    width: 325px;
+    height: 25px;
+}
+
+#btn {
+    background-color: blue;
+    color:white;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px;
+    border:none;
+}
+
+ul {
+    padding: 0px;
+    list-style-type: none;
+}
+
+li {
+    padding:10px;
+    margin-bottom:5px;  
+    border-radius:5px;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color: blue;    
+}
